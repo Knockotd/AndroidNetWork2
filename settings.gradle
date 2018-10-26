@@ -1,1 +1,1 @@
-include ':1019Network', ':1022parsing', ':1023databaseconnect'
+include ':1019Network', ':1022parsing', ':1023databaseconnect', ':1024userlogin', ':1025xmlparsing', ':1025broadcast', ':1025broadcastreceiver', ':1025intentservice'

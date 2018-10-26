@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/1019Network" />
+            <option value="$PROJECT_DIR$/1022parsing" />
+            <option value="$PROJECT_DIR$/1023databaseconnect" />
+            <option value="$PROJECT_DIR$/1024userlogin" />
+            <option value="$PROJECT_DIR$/1025broadcast" />
+            <option value="$PROJECT_DIR$/1025broadcastreceiver" />
+            <option value="$PROJECT_DIR$/1025intentservice" />
+            <option value="$PROJECT_DIR$/1025xmlparsing" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
